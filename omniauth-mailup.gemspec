@@ -18,7 +18,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   
   gem.add_runtime_dependency 'omniauth-oauth2', '~> 1.2.0'
-  gem.add_runtime_dependency 'multi_json', '~> 1.7.3'
+  gem.add_runtime_dependency 'multi_json', '~> 1.11.1'
   
   gem.add_development_dependency "rspec"
   gem.add_development_dependency "rake"
